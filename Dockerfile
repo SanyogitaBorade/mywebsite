@@ -9,4 +9,4 @@ COPY . .
 EXPOSE 4000
 
 # run a command when container starts
-CMD ["node", "server.js"]
+CMD ["node", "Hello From Server"]
